@@ -12,3 +12,7 @@ StudentHub podrá notificar:
 
 \- cancelaciones.
 
+\- confirmación de matrícula;
+
+
+
